@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./picdelamirandole00dore_0195.png"; bbox 0 0 1906 2984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 749 274 1016 334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 749 274 1016 334">
+     <span class='ocr_line' id='line_1_1' title="bbox 749 274 1016 334; baseline 0 -27"><span class='ocrx_word' id='word_1_1' title='bbox 749 274 1016 334; x_wconf 71' lang='lat'>-137—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 236 397 1546 535">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 236 397 1546 535">
+     <span class='ocr_line' id='line_1_2' title="bbox 236 397 1546 459; baseline -0.003 -13"><span class='ocrx_word' id='word_1_2' title='bbox 236 415 290 446; x_wconf 81' lang='lat' dir='ltr'>ce</span> <span class='ocrx_word' id='word_1_3' title='bbox 322 400 633 447; x_wconf 82' lang='lat' dir='ltr'>totallement</span> <span class='ocrx_word' id='word_1_4' title='bbox 678 399 917 454; x_wconf 86' lang='lat' dir='ltr'>mauvaiz,</span> <span class='ocrx_word' id='word_1_5' title='bbox 957 398 1318 459; x_wconf 81' lang='lat' dir='ltr'>supersticieux</span> <span class='ocrx_word' id='word_1_6' title='bbox 1349 409 1397 445; x_wconf 86' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_7' title='bbox 1427 397 1546 443; x_wconf 84' lang='lat' dir='ltr'>divi-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 236 475 638 535; baseline 0.002 -15"><span class='ocrx_word' id='word_1_8' title='bbox 236 475 454 521; x_wconf 83' lang='lat' dir='ltr'>natoires</span> <span class='ocrx_word' id='word_1_9' title='bbox 490 476 587 535; x_wconf 83' lang='lat' dir='ltr'><em>(sic)</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 609 477 638 521; x_wconf 89' lang='lat'>¹.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 243 620 1541 745">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 243 620 1541 745">
+     <span class='ocr_line' id='line_1_4' title="bbox 294 620 1541 678; baseline -0.001 -15"><span class='ocrx_word' id='word_1_11' title='bbox 294 623 674 678; x_wconf 65' lang='lat' dir='ltr'>1.Bibliothceque</span> <span class='ocrx_word' id='word_1_12' title='bbox 717 625 962 666; x_wconf 83' lang='lat' dir='ltr'>nationale.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1011 621 1236 676; x_wconf 65' lang='lat' dir='ltr'><strong><em>Franftais</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1286 620 1412 674; x_wconf 81' lang='lat'>1357,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1461 620 1541 662; x_wconf 86' lang='lat' dir='ltr'><strong>fol.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 243 699 472 745; baseline 0 -13"><span class='ocrx_word' id='word_1_16' title='bbox 243 705 256 732; x_wconf 90' lang='lat'>1</span> <span class='ocrx_word' id='word_1_17' title='bbox 285 699 386 745; x_wconf 74' lang='lat' dir='ltr'>v0-9</span> <span class='ocrx_word' id='word_1_18' title='bbox 410 699 472 732; x_wconf 68' lang='grc' dir='ltr'>νῦ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
